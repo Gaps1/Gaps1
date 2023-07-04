@@ -17,14 +17,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm Gaps, I don't like to consider myself a developer as I haven't do that many projects. I'm 15 years old.
-
-I started coding 8/7 months ago I think
-
+What i'm supposed to put here
 
 ## Languages I Know
 
 - Python
-- Java (Not that advanced tho)
-- JavaScript
-- C (Learning)
+- C
