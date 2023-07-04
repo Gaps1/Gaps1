@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-What i'm supposed to put here
+What am I supposed to put here?
 
 ## Languages I Know
 
